@@ -1,0 +1,12 @@
+fieldset{
+    margin: 15% 500px 25% 500px;
+    width: 20%;
+}
+.tab{
+    margin: 0 75px 0 75px;
+}
+.btn{
+    float: right;
+    margin-top:10px ;
+    margin-right: 30px;
+}
